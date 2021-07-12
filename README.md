@@ -1,3 +1,2 @@
 # Repositoryone
-this is my first repository
-Integration between azure devops and Github
+this is first repository which is created for practise purpose.
